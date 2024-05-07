@@ -13,7 +13,7 @@
 
   Para clonar o projeto e utilizá-lo em seu computador, siga os seguintes passos:
   
-  1. Crie uma pasta onde deseja armazenar nosso projeto, e então abra-a e clique no url da pasta, após isto, escreva em cima do url `cmd`, para abrir o prompt de comando. E então execute o comando abaixo:
+  Crie uma pasta onde deseja armazenar nosso projeto, e então abra-a e clique no url da pasta, após isto, escreva em cima do url `cmd`, para abrir o prompt de comando. E então execute o comando abaixo:
   
   > _Obs.: Caso você esteja no LINUX, a parte de escrever "cmd" não irá funcionar, então clique com o botão direito na pasta que você criou e selecione a opção "Abrir no terminal"_
 
@@ -28,7 +28,7 @@
 <details>
   <summary><b>Instalando Ambiente Virtual</b></summary>
 
-  1. Após a clonagem, clique com o botão direito na pasta e selecione a opção de abrir com o Terminal, e insira os seguintes comandos :
+  Após a clonagem, clique com o botão direito na pasta e selecione a opção de abrir com o Terminal, e insira os seguintes comandos :
 
   ```
   python3 -m venv venv
